@@ -1,0 +1,11 @@
+# Tema alinhado à identidade visual de guilhermetakeshy.com
+[theme]
+base = "light"
+primaryColor = "#1038c8"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f2f1"
+textColor = "#111318"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

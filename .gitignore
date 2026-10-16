@@ -1,0 +1,13 @@
+# Segredos (chave da API do YouTube) — NUNCA publicar
+.env
+.streamlit/secrets.toml
+
+# Ambiente e caches
+venv/
+__pycache__/
+.pytest_cache/
+
+# Banco da pesquisa, COM o texto dos comentários — NUNCA publicar
+data/radar_politico.db
+
+# O banco data/radar_publico.db (sem textos, gerado por export_public_db.py) É publicado.

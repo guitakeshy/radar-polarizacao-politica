@@ -1,0 +1,8 @@
+# Dependências completas: coleta no YouTube, modelo de sentimento, exportação de imagens e testes.
+-r requirements.txt
+google-api-python-client>=2.115.0
+transformers>=4.37.0
+torch>=2.0.0
+tqdm>=4.66.0
+kaleido>=0.2.1
+pytest>=8.0.0
